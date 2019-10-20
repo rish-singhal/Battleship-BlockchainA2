@@ -3,7 +3,7 @@ Done as a part of Distributing Trust &amp; Blockchains Course
 
 ## Problem Statement
 For Assignment 2, you are expected to make a blockchain-backed version of the "Battleship"  
-The rules can be found on the Wikipedia page: https://en.wikipedia.org/wiki/Battleship_(game)#Variations 
+The rules can be found on the Wikipedia page: https://en.wikipedia.org/wiki/Battleship_(game)#Variations     
 Feel free to add fun variations to the game, they will be rewarded during evaluations.  
 You are allowed to use any and all Backend/Frontend frameworks like Flask, React, Node, etc.  
 
