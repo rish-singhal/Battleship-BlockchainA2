@@ -16,5 +16,5 @@ You are allowed to use any and all Backend/Frontend frameworks like Flask, React
 Bonus 5% if the website is deployed on a public URL before the eval (not the submission deadline)  
 
 ## Authors
-Rishabh Singhal 
-Shubham Raj  
+- Rishabh Singhal 
+- Shubham Raj  
