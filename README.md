@@ -18,3 +18,8 @@ Bonus 5% if the website is deployed on a public URL before the eval (not the sub
 ## Authors
 - Rishabh Singhal 
 - Shubham Raj  
+
+
+## Resources
+- https://arxiv.org/abs/1807.08142
+- https://steemit.com/technology/@giblets/my-first-dapp-blockchain-battleship
