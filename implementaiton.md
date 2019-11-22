@@ -35,3 +35,5 @@ Game Components -->
     when points == max. :
       'game over', 'winner'
     }  
+ 
+- Game ID
